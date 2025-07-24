@@ -1,16 +1,19 @@
 
 ###
-<div align="center">
-  <a href="www.linkedin.com/in/mahdi-chaabani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">- I'm Mahdi, 📚 a computer science student from Tunisia 🇹🇳.<br>- I’m passionate about coding, problem-solving, and building real-world applications.<br>- Currently focusing on C++, and JavaScript.<br>-->   Always learning, always improving 🚀</p>
+
+
+<div align="center">
+  <a href="www.linkedin.com/in/mahdi-chaabani" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
