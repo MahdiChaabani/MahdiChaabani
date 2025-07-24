@@ -1,7 +1,4 @@
 
-
-<h1 align="center">   Hi there !!!👋</h1>
-
 ###
 <div align="center">
   <a href="www.linkedin.com/in/mahdi-chaabani" target="_blank">
